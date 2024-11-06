@@ -1,0 +1,6 @@
+@AbstractFatory_HostAddress = http://localhost:5241
+
+GET {{AbstractFatory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
